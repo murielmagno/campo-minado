@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CampoTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2021-03-29T12:52:42" hostname="PULSE-JOB" time="0.152">
+  <properties/>
+  <testcase name="testeVizinhoEsquerda()" classname="CampoTest" time="0.048"/>
+  <testcase name="testeAbrirMinadoEMarcado()" classname="CampoTest" time="0.003"/>
+  <testcase name="testeToStringMarcado()" classname="CampoTest" time="0.007"/>
+  <testcase name="testeAbrirMinadoNaoMarcado()" classname="CampoTest" time="0.004"/>
+  <testcase name="testePadraoMarcacao()" classname="CampoTest" time="0.002"/>
+  <testcase name="testaReiniciar()" classname="CampoTest" time="0.002"/>
+  <testcase name="testeVizinhoDistanciaDois()" classname="CampoTest" time="0.008"/>
+  <testcase name="testaDesvendado()" classname="CampoTest" time="0.004"/>
+  <testcase name="testaObjetivo1()" classname="CampoTest" time="0.002"/>
+  <testcase name="testaObjetivo2()" classname="CampoTest" time="0.002"/>
+  <testcase name="testeVizinhoDireita()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeToStringAberto()" classname="CampoTest" time="0.015"/>
+  <testcase name="testeVizinhoBaixo()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeAlterarMarcacao()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeAbrirNaoMinadoNaoMarcado()" classname="CampoTest" time="0.002"/>
+  <testcase name="testeToStringAbertoEMinasVizinhanca()" classname="CampoTest" time="0.002"/>
+  <testcase name="testeVizinhoCima()" classname="CampoTest" time="0.0"/>
+  <testcase name="testeToStringAbertoEMinado()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeMarcacao()" classname="CampoTest" time="0.002"/>
+  <testcase name="testeAbrirComVizinhos()" classname="CampoTest" time="0.002"/>
+  <testcase name="testaGetLinha()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeToStringFechado()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeAbrirNaoMinadoEMarcado()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeNaoVizinho()" classname="CampoTest" time="0.001"/>
+  <testcase name="testeAbrirComVizinhos2()" classname="CampoTest" time="0.001"/>
+  <testcase name="testaGetColuna()" classname="CampoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
