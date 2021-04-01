@@ -196,4 +196,8 @@ public class CampoTest {
         Assertions.assertEquals("?",campo.toString());
     }
 
+    @Test
+    void testeIsMinado(){
+
+    }
 }
